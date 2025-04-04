@@ -1,0 +1,9 @@
+controller\DiaryController.class
+model\Keywords.class
+model\Entry.class
+app\App.class
+model\Checks.class
+model\TextEntry.class
+model\EntryList.class
+model\PictureEntry.class
+model\EntryInterface.class
